@@ -1,2 +1,2 @@
-# tese-ppgcp-ufpe
+# Banco de dados usado na Tese de Doutorado em Ciência Política (UFPE) de Gills Vilar Lopes
 Banco de dados - em formatos .dta e .xls - utilizado na Tese de Doutorado em Ciência Política, com área de concentração em Relaçes Internacionais, intitulada "Relações Internacionais Cibernéticas (CiberRI): uma defesa acadêmica a partir dos Estudos de Segurança Internacional", defendida em 28 de dezembro de 2016, sob os auspícios do Programa de Pós-Graduação em Ciência Política da Universidade Federal de Pernambuco (PPGCP-UFPE).
